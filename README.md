@@ -9,8 +9,7 @@ test
 
 Asset Inventory
 
-![image](https://github.com/dg-cafe/test/assets/82658653/92019d53-f32e-461a-b383-bf011fb072e2)
-
+[![](https://github.com/dg-cafe/test/assets/82658653/92019d53-f32e-461a-b383-bf011fb072e2)](https://github.com/dg-cafe/test/assets/82658653/92019d53-f32e-461a-b383-bf011fb072e2)
 
 
 WAS Inventory
