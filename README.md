@@ -3,7 +3,10 @@ test
 
 Host List Detection
 
-[![](https://github.com/dg-cafe/test/assets/82658653/b264bbd9-cb6d-4417-8692-962572865204)](https://github.com/dg-cafe/test/assets/82658653/b264bbd9-cb6d-4417-8692-962572865204)
+![image](https://github.com/dg-cafe/test/assets/82658653/983d770b-125d-4942-b1ce-3c4495d4f9a7)
+
+
+[![](https://github.com/dg-cafe/test/assets/82658653/983d770b-125d-4942-b1ce-3c4495d4f9a7)](https://github.com/dg-cafe/test/assets/82658653/983d770b-125d-4942-b1ce-3c4495d4f9a7)
 
 Asset Inventory
 
