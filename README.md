@@ -8,6 +8,7 @@ Host List Detection
 
 Asset Inventory
 
+![image](https://github.com/dg-cafe/test/assets/82658653/d4c4c41f-5838-45c4-81e4-4855a09b771f)
 
 
 
