@@ -13,3 +13,5 @@ Asset Inventory
 
 
 WAS Inventory
+
+![image](https://github.com/dg-cafe/test/assets/82658653/ca207348-77e2-4a0d-b2a0-6353075cb82a)
