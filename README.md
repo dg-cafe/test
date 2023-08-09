@@ -15,4 +15,5 @@ Asset Inventory
 
 WAS Inventory
 
-![image](https://github.com/dg-cafe/test/assets/82658653/ca207348-77e2-4a0d-b2a0-6353075cb82a)
+![image](https://github.com/dg-cafe/test/assets/82658653/ed143832-421f-4229-865b-858b6dfab12c)
+
