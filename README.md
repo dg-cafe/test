@@ -23,4 +23,4 @@ PCRS
 
 APPLICATION
 
-![application_data_distribution_components](https://github.com/dg-cafe/test/assets/82658653/79db32ef-0381-4d89-8e98-165bdebb206c)
+![image](https://github.com/dg-cafe/test/assets/82658653/79db32ef-0381-4d89-8e98-165bdebb206c)
