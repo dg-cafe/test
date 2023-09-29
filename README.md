@@ -17,3 +17,4 @@ WAS Inventory
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/ed143832-421f-4229-865b-858b6dfab12c)
 
+![image](https://github.com/dg-cafe/test/assets/82658653/3f63842f-4872-4cfc-a6b3-ec9ec46357d9)
