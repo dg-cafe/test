@@ -19,3 +19,9 @@ PCRS
 APPLICATION
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/79db32ef-0381-4d89-8e98-165bdebb206c)
+
+
+UPDATED ASSET INVENTORY 2023-10-05
+
+![image](https://github.com/dg-cafe/test/assets/82658653/cd59a874-6e64-412a-a567-3436262d81cf)
+
