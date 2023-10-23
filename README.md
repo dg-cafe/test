@@ -12,6 +12,11 @@ WAS Inventory
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/ed143832-421f-4229-865b-858b6dfab12c)
 
+WAS INVENTORY UPDATE 2023-10-22
+
+![image](https://github.com/dg-cafe/test/assets/82658653/48f5bcd4-77d7-4c08-9dde-f2611e6f4bb4)
+
+
 PCRS 
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/3f63842f-4872-4cfc-a6b3-ec9ec46357d9)
