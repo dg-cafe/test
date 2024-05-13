@@ -30,3 +30,7 @@ UPDATED ASSET INVENTORY 2023-10-05
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/cd59a874-6e64-412a-a567-3436262d81cf)
 
+Updated Knowledgebase 2024-05-12
+
+![image](https://github.com/dg-cafe/test/assets/82658653/9ec8b301-3c89-4bdb-bc6e-71600a51c1bf)
+
