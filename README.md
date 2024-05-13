@@ -43,3 +43,6 @@ Updated Asset Inventory 2024-05-12
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/a2f75e6f-9fdf-426c-9f76-858737fe9d3d)
 
+Updated WAS 2024-05-12
+
+![image](https://github.com/dg-cafe/test/assets/82658653/996299db-7731-4a86-a71e-be7fbc49e1c2)
