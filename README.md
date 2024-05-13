@@ -39,4 +39,7 @@ Updated Host List Detection img link
 <img width="857" alt="image" src="https://github.com/dg-cafe/test/assets/82658653/a94248ce-5343-4728-9646-a40496d50bdf">
 
 
+Updated Asset Inventory 2024-05-12
+
+![image](https://github.com/dg-cafe/test/assets/82658653/a2f75e6f-9fdf-426c-9f76-858737fe9d3d)
 
