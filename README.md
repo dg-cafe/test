@@ -30,8 +30,13 @@ UPDATED ASSET INVENTORY 2023-10-05
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/cd59a874-6e64-412a-a567-3436262d81cf)
 
-Updated Knowledgebase 2024-05-12
+Updated Host List Detection 2024-05-12
 
-![image](https://github.com/dg-cafe/test/assets/82658653/4568bdc0-de9b-47a0-9864-cdfc00448ff6)
+![image](https://github.com/dg-cafe/test/assets/82658653/a94248ce-5343-4728-9646-a40496d50bdf)
+
+Updated Host List Detection img link
+
+<img width="857" alt="image" src="https://github.com/dg-cafe/test/assets/82658653/a94248ce-5343-4728-9646-a40496d50bdf">
+
 
 
