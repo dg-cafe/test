@@ -46,3 +46,7 @@ Updated Asset Inventory 2024-05-12
 Updated WAS 2024-05-12
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/996299db-7731-4a86-a71e-be7fbc49e1c2)
+
+Updated PCRS 2024-05-12
+
+![image](https://github.com/dg-cafe/test/assets/82658653/a5e1408a-5866-4049-8339-357b572cb167)
