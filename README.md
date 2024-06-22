@@ -53,5 +53,6 @@ Updated PCRS 2024-05-12
 
 QualysETL: Unified Data Integration and Distribution for Comprehensive Security Insights
 
-![image](https://github.com/dg-cafe/test/assets/82658653/aff65042-d727-46b0-a9c0-08684ce51db3)
+![image](https://github.com/dg-cafe/test/assets/82658653/35a99071-ea3b-472a-b3ca-ecb262306447)
+
 
