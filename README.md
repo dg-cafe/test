@@ -55,4 +55,9 @@ QualysETL: Unified Data Integration and Distribution for Comprehensive Security 
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/35a99071-ea3b-472a-b3ca-ecb262306447)
 
+Update 2024-11-04 - Host List Detection 
+
+![image](https://github.com/user-attachments/assets/523cb59a-bdb0-4a10-81cb-0050f8acf81e)
+
+
 
