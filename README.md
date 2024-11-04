@@ -59,5 +59,10 @@ Update 2024-11-04 - Host List Detection
 
 ![image](https://github.com/user-attachments/assets/523cb59a-bdb0-4a10-81cb-0050f8acf81e)
 
+Updated 2024-11-04 - Asset Inventory
+
+![image](https://github.com/user-attachments/assets/639312fd-6625-4cd9-9f45-abad7c7d8262)
+
+
 
 
