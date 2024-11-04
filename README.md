@@ -63,6 +63,16 @@ Updated 2024-11-04 - Asset Inventory
 
 ![image](https://github.com/user-attachments/assets/639312fd-6625-4cd9-9f45-abad7c7d8262)
 
+Updated 2024-11-04 - WAS
+
+![image](https://github.com/user-attachments/assets/46bf6df9-60fd-4b6e-a6ca-602964fd74be)
+
+Updated 2024-11-04 - PCRS
+
+![image](https://github.com/user-attachments/assets/a6d15277-4fc6-4a80-8508-ceab347edf5a)
+
+
+
 
 
 
