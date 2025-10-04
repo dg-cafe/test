@@ -3,6 +3,10 @@
 Host List Detection Update 2025-10-04
 ![image](https://github.com/user-attachments/assets/ef74979b-4e18-4dff-84e7-b6844657b1f3)
 
+Asset Inventory Update 2025-10-04
+![image](https://github.com/user-attachments/assets/7c48759f-71e5-4bcb-a9a1-7ccd2c139448)
+
+
 
 Host List Detection
 
