@@ -1,5 +1,10 @@
 # Qualysetl Images
 
+Host List Detection Update 2025-10-04
+
+<img width="2320" height="1824" alt="image" src="https://github.com/user-attachments/assets/69fdd117-a8c2-4142-8198-6d11dc886535" />
+
+
 Host List Detection
 
 ![image](https://github.com/dg-cafe/test/assets/82658653/b9b2c83b-226b-476c-acaf-4961308f9b4d)
